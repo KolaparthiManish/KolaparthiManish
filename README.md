@@ -81,6 +81,6 @@
 </p>
 <hr>
 <abbr title="If you are intrusted"><p align="center"><h1>Visitors count</h1></p></abbr>
-<p align ="center"><img src="https://profile-counter.glitch.me/rupesh4950/count.svg"></p>
+<p align ="center"><img src="https://profile-counter.glitch.me/KolaparthiManish/count.svg"></p>
 
 
