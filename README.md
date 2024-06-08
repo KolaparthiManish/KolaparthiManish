@@ -9,7 +9,7 @@
   <br>
 - 👋 Hi, I’m Manish
 <br>
-- 💼 I'm currently working as associate software engineer in 
+- 💼 I'm currently working as associate software engineer in IDEXCEL
 <br>
 - 🔭 I’m currently working on React.
 <br>
@@ -17,7 +17,7 @@
 <br>
 - 👯 I’m looking to collaborate on ReactJS with AWS.
 <br >
-- 📫 How to reach me: <a href="mailto:mekalarupesh7981842197@gmail.com">manishk@gmail.com</a>.
+- 📫 How to reach me: <a href="mailto:mekalarupesh7981842197@gmail.com">manishkolaparthi234@gmail.com</a>.
 <br>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
@@ -71,7 +71,7 @@
 <p>
  <h2>Join with me </h2>
 
-  <img src="https://tryhackme-badges.s3.amazonaws.com/rupesh4950.png" alt="TryHackMe">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/KolaparthiManish.png" alt="TryHackMe">
   <p>
  <a href="https://leetcode.com/MRUPESH/"> <img src="./asserts/leetcode.svg" height="50" width="50"> <b>Leat code</b></a>
 
