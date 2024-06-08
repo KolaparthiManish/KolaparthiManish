@@ -9,7 +9,7 @@
   <br>
 - 👋 Hi, I’m Manish
 <br>
-- 💼 I'm currently working as associate software engineer in Fireflink
+- 💼 I'm currently working as associate software engineer in 
 <br>
 - 🔭 I’m currently working on React.
 <br>
